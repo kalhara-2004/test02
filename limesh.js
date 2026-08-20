@@ -1,2 +1,2 @@
 let b = pakaya;
-let c = bati_ponnaya;
+let c = lime_ponnaya;
